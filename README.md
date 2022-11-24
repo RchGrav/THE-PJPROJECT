@@ -56,7 +56,7 @@ make
 ```
 * Install the module
 ```sh
-sudo make install
+make install
 ```
 
 ## Installing pjsua2 python module using pip
